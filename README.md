@@ -1,4 +1,4 @@
-### Hello! I'm Gug_Saas
+### Hey, how's it going? I'm Gug_Saas
 
 - 🔭 Search for a work in tecnology...
 - 🌱 I’m currently learning JavaScript, Networkings, Ethical Hacking and MySQL
