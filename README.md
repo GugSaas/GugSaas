@@ -1,8 +1,8 @@
 ### Hey, how's it going? I'm Gug_Saas
 
 - 🔭 Search for a work in tecnology...
-- 🌱 I’m currently learning JavaScript, Networkings, Ethical Hacking and MySQL
-- 💬 Ask me about HTML, CSS, C, C#, Python, Bug Bounty/CyberSecurity/Pentest, Linux, LGPD
+- 🌱 I’m currently learning JavaScript, Networkings, Ethical Hacking and MongoDB
+- 💬 Ask me about HTML, CSS, C, C#, Python, Bug Bounty/CyberSecurity/Pentest, Linux, LGPD, MySQL, Git and GitHub, ReactJS
 - 📫 Contact me in Linkedin
 - 😄 Pronouns: Him/Hes
 
