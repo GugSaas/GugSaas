@@ -1,6 +1,6 @@
 ### Hey, how's it going? I'm Gug_Saas
 
-- 🔭 Intership in CyberSecurity...
+- 🔭 Inter in CyberSecurity...
 - My goal for the next year is achive the DCPT and be effected in the Red Team, like a Pentester Junior or something like that.
 - 🌱 I’m currently Ethical Hacking from Desec Security.
 - 💬 Ask me about HTML, CSS, C, C#, Python, Bug Bounty/CyberSecurity/Pentest, Linux, LGPD, MySQL, MongoDB, Git and GitHub, ReactJS, JavaScript, Firebase, Bash Script.
