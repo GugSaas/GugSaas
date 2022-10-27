@@ -1,8 +1,8 @@
 ### Hey, how's it going? I'm Gug_Saas
 
 - 🔭 Intern in CyberSecurity SOC...
-- 😄 My goal for the next year is achive the DCPT and be effected in the Red Team, such as a Pentester Junior or something like that.
-- 🌱 I’m currently learning Ethical Hacking from Desec Security.
+- 😄 My goal for the next year is achive the eJPT,SYCP,CWHI and be effected in the Red Team, such as a Pentester Junior or something like that.
+- 🌱 I’m currently learning Wifi Hacking Enterprise from Desec Security, and recently i achive the DCPT certification.
 - 💬 Ask me about HTML, CSS, C, C#, Python, Bug Bounty/CyberSecurity/Pentest, Linux, LGPD, MySQL, MongoDB, Git and GitHub, ReactJS, JavaScript, Firebase, Bash Script.
 - 📫 Contact me in Linkedin https://www.linkedin.com/in/gustavo-saas/.
 
